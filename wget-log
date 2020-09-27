@@ -1,0 +1,11 @@
+--2020-09-27 21:35:34--  https://www.humanesociety.org/sites/default/files/styles/1441x612/public/2018/08/kitten-440379.jpg?h=c8d00152
+Resolving www.humanesociety.org (www.humanesociety.org)... 23.185.0.1, 2620:12a:8001::1, 2620:12a:8000::1
+Connecting to www.humanesociety.org (www.humanesociety.org)|23.185.0.1|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 142356 (139K) [image/jpeg]
+Saving to: ‘kitten-440379.jpg?h=c8d00152’
+
+kitten-440379.jpg?h=c8d00152          0%[                                                                   ]       0  --.-KB/s               kitten-440379.jpg?h=c8d00152        100%[==================================================================>] 139.02K  --.-KB/s    in 0.005s  
+
+2020-09-27 21:35:34 (26.3 MB/s) - ‘kitten-440379.jpg?h=c8d00152’ saved [142356/142356]
+
